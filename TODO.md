@@ -1,0 +1,4 @@
+- [x] Create cours-groupe-ali/index.html with a simple welcome page
+- [x] Create cours-groupe-ali/Dockerfile to serve the HTML using nginx
+- [x] Create cours-groupe-ali/docker-compose.yml to build and run the service on port 80
+- [x] Create cours-groupe-ali/README.md with build and run instructions
